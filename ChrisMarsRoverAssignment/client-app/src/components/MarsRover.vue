@@ -31,7 +31,7 @@
                                 <span v-b-tooltip.hover.right :title="posHeadingTooltip"><font-awesome-icon icon="question-circle" /></span>
                             </div>
                         </template>
-                        <b-form-input id="position-heading" v-model="form.positionHeading.toUpperCase()" type="text" placeholder="Enter rover position and heading" required :trim="true" />
+                        <b-form-input id="position-heading" v-model="form.positionHeading" type="text" placeholder="Enter rover position and heading" required :trim="true" />
                         <b-form-invalid-feedback :state="positionHeadingValid">
                             Position and Heading must be 2 digits followed by a cardinal compass point (e.x. 12N).
                         </b-form-invalid-feedback>

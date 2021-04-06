@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "raUpPKuj+LexMBIAtrVl45/p2GuNWm+cud9rlBDs/88/qC6n5nrmrlBpAqRuEel2md8k20ih9tAHQ0CYB/rDuw==",
+  "dgSpecHash": "weH7tvVTlVNvnTPel8iqivhoIq+CwCosSdwjbJIQyJi76z0uMp5GvzVsIE8WwKKY2nO3H2XxMAR92cTKp2Fs2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\12698\\sites\\dummy repos\\ChrisMarsRoverAssignment\\ChrisMarsRoverAssignmentApi\\ChrisMarsRoverAssignmentApi.csproj",
+  "projectFilePath": "/Users/chris/Sites/ChrisMarsRoverAssignment/ChrisMarsRoverAssignmentApi/ChrisMarsRoverAssignmentApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
