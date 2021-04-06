@@ -1,0 +1,40 @@
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.exe
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.deps.json
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.runtimeconfig.json
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.runtimeconfig.dev.json
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.dll
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.pdb
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.csprojAssemblyReference.cache
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.AssemblyInfoInputs.cache
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.AssemblyInfo.cs
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.csproj.CoreCompileInputs.cache
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\staticwebassets\ChrisMarsRoverAssignmentApi.StaticWebAssets.Manifest.cache
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\staticwebassets\ChrisMarsRoverAssignmentApi.StaticWebAssets.xml
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChrisMarsRoverAssignmentApi.styles.css
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.RazorTargetAssemblyInfo.cache
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.dll
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.pdb
+C:\Users\12698\sites\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.genruntimeconfig.cache
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.exe
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.deps.json
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.runtimeconfig.json
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.runtimeconfig.dev.json
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.dll
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\bin\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.pdb
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.csprojAssemblyReference.cache
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.AssemblyInfoInputs.cache
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.AssemblyInfo.cs
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.csproj.CoreCompileInputs.cache
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\staticwebassets\ChrisMarsRoverAssignmentApi.StaticWebAssets.Manifest.cache
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\staticwebassets\ChrisMarsRoverAssignmentApi.StaticWebAssets.xml
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChrisMarsRoverAssignmentApi.styles.css
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.RazorTargetAssemblyInfo.cache
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.dll
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.pdb
+C:\Users\12698\sites\dummy repos\ChrisMarsRoverAssignment\ChrisMarsRoverAssignmentApi\obj\Debug\netcoreapp3.1\ChrisMarsRoverAssignmentApi.genruntimeconfig.cache

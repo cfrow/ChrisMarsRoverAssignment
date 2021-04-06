@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChrisMarsRoverAssignment", "ChrisMarsRoverAssignment\ChrisMarsRoverAssignment.csproj", "{B7C8F681-44F9-4738-8C97-54380F1C37AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChrisMarsRoverAssignmentApi", "ChrisMarsRoverAssignmentApi\ChrisMarsRoverAssignmentApi.csproj", "{7974EBEB-3168-4E98-89E4-990E3568AAA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C8F681-44F9-4738-8C97-54380F1C37AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C8F681-44F9-4738-8C97-54380F1C37AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C8F681-44F9-4738-8C97-54380F1C37AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C8F681-44F9-4738-8C97-54380F1C37AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7974EBEB-3168-4E98-89E4-990E3568AAA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7974EBEB-3168-4E98-89E4-990E3568AAA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7974EBEB-3168-4E98-89E4-990E3568AAA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7974EBEB-3168-4E98-89E4-990E3568AAA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13D3B3BE-07FC-4F90-8F71-197BF6E00DF3}
+	EndGlobalSection
+EndGlobal
